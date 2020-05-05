@@ -1,0 +1,30 @@
+    How long did you spend on the technical test? What would you add to your solution if you had more time? If you didn't spend much time on the technical test then use this as an opportunity to explain what you would add.
+    Ans:
+    15 Mins - Python & Selenium were already installed.
+    In Search Results we may have sorted the restaurants with Distance or Customer Rating or minimum Order or Delivery Fee
+    Select the first Sorted restauranrt( Distance)
+    Selectedone or More Items
+    Select Delivery or Collection option
+    & Check Out
+
+    What do you think is the most interesting trend in test automation?
+    Ans:
+    CI/CD pipeline - As we can test the application as soon the code is checked in.
+    If the test case is passed then only the build will be deployed to the specified environment.
+    
+
+    How would you implement test automation in a legacy application? Have you ever had to do this?
+    Ans:
+    I have only worked on web-based applications.
+
+    How would you improve the customer experience of the JUST EAT website?
+    Ans:
+    Using Navigation API we might have determined the users current GPS location, so that no need to enter the postal code manually.
+    Login- Invisible captcha might have been used to reduce the navigation.
+    Menu Filter - there is no way to choose Veg or Non-veg food items.
+
+    Please describe yourself using JSON.
+  Ans:
+  Used JSON to exchange data payload between different systems - ESB(IIB) - Websphere - DataPower
+  Also used in REST & Soap API Testing
+  
